@@ -1,0 +1,1653 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rows>
+    <row num="1">
+        <Nombre>Adarrazpi Gaztandegia</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Urnieta</Localidad>
+        <Telefono>626 786 750</Telefono>
+        <Direccion>Goiburu Auzoa, 33 C</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.basquecooltour.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20130</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>43.23104658671305,-1.9825199206237585</CoordenadasGPS>
+        <LATWGS84>43.23104658671305</LATWGS84>
+        <LONWGS84>-1.9825199206237585</LONWGS84>
+        <Municipio>Urnieta</Municipio>
+        <Codigomunicipio>072</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/adarrazpi-gaztandegia/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000079641_l2_rec_turismo/es_79641/79641-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000079641_l2_rec_turismo/es_79641/data/79641_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000079641_l2_rec_turismo/r01Index/0000079641_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000079641_l2_rec_turismo/opendata/0000079641_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="2">
+        <Nombre>Akarregi Txiki Txakolindegia</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>689 035 789</Telefono>
+        <Direccion>Akarregi-txiki Baserria, Akarregi auzoa</Direccion>
+        <Marcas>Costa Vasca</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.akarregitxiki.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20808</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.30239356707735,-2.2100029079956585</CoordenadasGPS>
+        <LATWGS84>43.30239356707735</LATWGS84>
+        <LONWGS84>-2.2100029079956585</LONWGS84>
+        <Municipio>Getaria</Municipio>
+        <Codigomunicipio>039</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/akarregi-txiki-txakolindegia/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092261_l2_rec_turismo/es_92261/92261-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092261_l2_rec_turismo/es_92261/data/92261_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092261_l2_rec_turismo/r01Index/0000092261_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092261_l2_rec_turismo/opendata/0000092261_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="3">
+        <Nombre>Aldeko Eztia</Nombre>
+        <Descripcion>Productor de miel que ofrece visitas a su pequeña explotación de abejas.</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Uribarri | Diseminado</Localidad>
+        <Telefono>945 445 187</Telefono>
+        <Direccion>Barrio Uribarri 10 - Aldeko baserria</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Buenaspracticas>1</Buenaspracticas>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>01169</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.0399106,-2.5759947999999895</CoordenadasGPS>
+        <LATWGS84>43.0399106</LATWGS84>
+        <LONWGS84>-2.5759947999999895</LONWGS84>
+        <Municipio>Aramaio</Municipio>
+        <Codigomunicipio>003</Codigomunicipio>
+        <Provincia>Araba/Álava</Provincia>
+        <Codigoprovincia>01</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/aldeko-eztia/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063722_l2_rec_turismo/es_63722/63722-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063722_l2_rec_turismo/es_63722/data/63722_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063722_l2_rec_turismo/r01Index/0000063722_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063722_l2_rec_turismo/opendata/0000063722_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="4">
+        <Nombre>Amador García</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Baños de Ebro/Mañueta</Localidad>
+        <Telefono>945 290 385</Telefono>
+        <Direccion>Avenida del Ebro, 68-70</Direccion>
+        <Marcas>Rioja Alavesa</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.bodegasamadorgarcia.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>01307</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>42.53054387179633,-2.6761824711638837</CoordenadasGPS>
+        <LATWGS84>42.53054387179633</LATWGS84>
+        <LONWGS84>-2.6761824711638837</LONWGS84>
+        <Municipio>Baños de Ebro/Mañueta</Municipio>
+        <Codigomunicipio>011</Codigomunicipio>
+        <Provincia>Araba/Álava</Provincia>
+        <Codigoprovincia>01</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/amador-garcia/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092206_l2_rec_turismo/es_92206/92206-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092206_l2_rec_turismo/es_92206/data/92206_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092206_l2_rec_turismo/r01Index/0000092206_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092206_l2_rec_turismo/opendata/0000092206_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="5">
+        <Nombre>Aranburu</Nombre>
+        <Descripcion>Queseria tradicional elaboradora de queso Idiazabal</Descripcion>
+        <Descripcion>Queseria tradicional elaboradora de queso Idiazabal</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Idiazabal</Localidad>
+        <Telefono>943 18 74 92</Telefono>
+        <Direccion>Ondramuino Baserria</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <VisitaGuiada>1</VisitaGuiada>
+        <PostalCode>20213</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>43.015595,-2.231324</CoordenadasGPS>
+        <LATWGS84>43.015595</LATWGS84>
+        <LONWGS84>-2.231324</LONWGS84>
+        <Municipio>Idiazabal</Municipio>
+        <Codigomunicipio>043</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/aranburu/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063727_l2_rec_turismo/es_63727/63727-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063727_l2_rec_turismo/es_63727/data/63727_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063727_l2_rec_turismo/r01Index/0000063727_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063727_l2_rec_turismo/opendata/0000063727_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="6">
+        <Nombre>Arimasagasti</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Idiazabal</Localidad>
+        <Telefono>653 735 282</Telefono>
+        <Direccion>Arimasagasti berri baserria</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20213</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>43.02188272442413,-2.241983576721168</CoordenadasGPS>
+        <LATWGS84>43.02188272442413</LATWGS84>
+        <LONWGS84>-2.241983576721168</LONWGS84>
+        <Municipio>Idiazabal</Municipio>
+        <Codigomunicipio>043</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/arimasagasti/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063730_l2_rec_turismo/es_63730/63730-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063730_l2_rec_turismo/es_63730/data/63730_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063730_l2_rec_turismo/r01Index/0000063730_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063730_l2_rec_turismo/opendata/0000063730_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="7">
+        <Nombre>Aroa</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Getaria</Localidad>
+        <Telefono>943 140 286</Telefono>
+        <Direccion>Barrio San Prudencio, s/n</Direccion>
+        <Marcas>Costa Vasca</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.aroasc.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <VisitaGuiada>1</VisitaGuiada>
+        <PostalCode>20808</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.30248468642541,-2.2149612209015004</CoordenadasGPS>
+        <LATWGS84>43.30248468642541</LATWGS84>
+        <LONWGS84>-2.2149612209015004</LONWGS84>
+        <Municipio>Getaria</Municipio>
+        <Codigomunicipio>039</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/aroa/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063741_l2_rec_turismo/es_63741/63741-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063741_l2_rec_turismo/es_63741/data/63741_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063741_l2_rec_turismo/r01Index/0000063741_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063741_l2_rec_turismo/opendata/0000063741_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="8">
+        <Nombre>Azkarra</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Galarreta</Localidad>
+        <Telefono>670 519 666</Telefono>
+        <Direccion>Barrio Arriba, 13</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.azkarra.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>01208</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>42.898561809902844,-2.362306542483566</CoordenadasGPS>
+        <LATWGS84>42.898561809902844</LATWGS84>
+        <LONWGS84>-2.362306542483566</LONWGS84>
+        <Municipio>San Millán/Donemiliaga</Municipio>
+        <Codigomunicipio>053</Codigomunicipio>
+        <Provincia>Araba/Álava</Provincia>
+        <Codigoprovincia>01</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/azkarra/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000082481_l2_rec_turismo/es_82481/82481-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000082481_l2_rec_turismo/es_82481/data/82481_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000082481_l2_rec_turismo/r01Index/0000082481_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000082481_l2_rec_turismo/opendata/0000082481_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="9">
+        <Nombre>Baias Garagardotegia</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Oiardo</Localidad>
+        <Telefono>615 783 624</Telefono>
+        <Direccion>La Escuela, 6</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.baiasgaragardotegia.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>01449</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>42.98981403217266,-2.9283043629516214</CoordenadasGPS>
+        <LATWGS84>42.98981403217266</LATWGS84>
+        <LONWGS84>-2.9283043629516214</LONWGS84>
+        <Municipio>Urkabustaiz</Municipio>
+        <Codigomunicipio>054</Codigomunicipio>
+        <Provincia>Araba/Álava</Provincia>
+        <Codigoprovincia>01</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/baias-garagardotegia/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063599_l2_rec_turismo/es_63599/63599-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063599_l2_rec_turismo/es_63599/data/63599_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063599_l2_rec_turismo/r01Index/0000063599_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063599_l2_rec_turismo/opendata/0000063599_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="10">
+        <Nombre>Basazabal</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Zerain</Localidad>
+        <Telefono>943 801 505</Telefono>
+        <Direccion>Barbari auzoa,63</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20214</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>42.997099,-2.288654</CoordenadasGPS>
+        <LATWGS84>42.997099</LATWGS84>
+        <LONWGS84>-2.288654</LONWGS84>
+        <Municipio>Zerain</Municipio>
+        <Codigomunicipio>026</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/basazabal/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063704_l2_rec_turismo/es_63704/63704-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063704_l2_rec_turismo/es_63704/data/63704_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063704_l2_rec_turismo/r01Index/0000063704_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063704_l2_rec_turismo/opendata/0000063704_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="11">
+        <Nombre>Baztarrika</Nombre>
+        <Descripcion>Queseria tradicional y museo en la que se puede ver también las ovejas</Descripcion>
+        <Descripcion>Queseria tradicional y museo en la que se puede ver también las ovejas</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Gabiria</Localidad>
+        <Telefono>943 883 044</Telefono>
+        <Direccion>Ugarana goikoa auzoa, 12</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20217</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>43.048059,-2.2851</CoordenadasGPS>
+        <LATWGS84>43.048059</LATWGS84>
+        <LONWGS84>-2.2851</LONWGS84>
+        <Municipio>Gabiria</Municipio>
+        <Codigomunicipio>038</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/baztarrika/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063711_l2_rec_turismo/es_63711/63711-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063711_l2_rec_turismo/es_63711/data/63711_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063711_l2_rec_turismo/r01Index/0000063711_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063711_l2_rec_turismo/opendata/0000063711_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="12">
+        <Nombre>Bidassoa Basque Brewery</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Irun</Localidad>
+        <Telefono>943 243 646</Telefono>
+        <Direccion>C/ Auzolan, 2</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Email>administracion@bidassoa.es</Email>
+        <WEB>http://bidassoa.es</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20302</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.33345689999999,-1.805139199999985</CoordenadasGPS>
+        <LATWGS84>43.33345689999999</LATWGS84>
+        <LONWGS84>-1.805139199999985</LONWGS84>
+        <Municipio>Irun</Municipio>
+        <Codigomunicipio>045</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/bidasoa-basque-brewery/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000086763_l2_rec_turismo/es_86763/86763-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000086763_l2_rec_turismo/es_86763/data/86763_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000086763_l2_rec_turismo/r01Index/0000086763_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000086763_l2_rec_turismo/opendata/0000086763_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="13">
+        <Nombre>Bodega Arzabro</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Delika</Localidad>
+        <Telefono>649 390 942</Telefono>
+        <Direccion>Barrio Urruti, 85 - Delika</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Buenaspracticas>1</Buenaspracticas>
+        <WEB>http://www.arabakotxakolina.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>01468</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>42.9689718957496,-2.988702339147949</CoordenadasGPS>
+        <LATWGS84>42.9689718957496</LATWGS84>
+        <LONWGS84>-2.988702339147949</LONWGS84>
+        <Municipio>Amurrio</Municipio>
+        <Codigomunicipio>002</Codigomunicipio>
+        <Provincia>Araba/Álava</Provincia>
+        <Codigoprovincia>01</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/bodega-arzabro/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092161_l2_rec_turismo/es_92161/92161-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092161_l2_rec_turismo/es_92161/data/92161_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092161_l2_rec_turismo/r01Index/0000092161_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092161_l2_rec_turismo/opendata/0000092161_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="14">
+        <Nombre>Bodega Katxina Txakolindegia</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>606367793</Telefono>
+        <Direccion>Ortzaika auzoa, 20</Direccion>
+        <Marcas>Costa Vasca</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.bodegakatxina.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20810</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.27856779095345,-2.1078292872803104</CoordenadasGPS>
+        <LATWGS84>43.27856779095345</LATWGS84>
+        <LONWGS84>-2.1078292872803104</LONWGS84>
+        <Municipio>Orio</Municipio>
+        <Codigomunicipio>061</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/bodega-katxina-txakolindegia/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092281_l2_rec_turismo/es_92281/92281-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092281_l2_rec_turismo/es_92281/data/92281_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092281_l2_rec_turismo/r01Index/0000092281_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092281_l2_rec_turismo/opendata/0000092281_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="15">
+        <Nombre>Borda</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Olaberria</Localidad>
+        <Telefono>943 160 681</Telefono>
+        <Direccion>Errekalde auzoa</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.baserritarra.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20212</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.023071,-2.198776</CoordenadasGPS>
+        <LATWGS84>43.023071</LATWGS84>
+        <LONWGS84>-2.198776</LONWGS84>
+        <Municipio>Olaberria</Municipio>
+        <Codigomunicipio>058</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimentos-bebidas/borda/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063560_l2_rec_turismo/es_63560/63560-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063560_l2_rec_turismo/es_63560/data/63560_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063560_l2_rec_turismo/r01Index/0000063560_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063560_l2_rec_turismo/opendata/0000063560_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="16">
+        <Nombre>Buen Bokado</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>94372 37 78</Telefono>
+        <Direccion>Plaza areizaga, 20</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Email>buenbokado@buenbokado.com</Email>
+        <WEB>http://www.buenbokado.com/</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20700</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.090640292453514,-2.314939838623104</CoordenadasGPS>
+        <LATWGS84>43.090640292453514</LATWGS84>
+        <LONWGS84>-2.314939838623104</LONWGS84>
+        <Municipio>Urretxu</Municipio>
+        <Codigomunicipio>077</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/tiendas-gourmet-enotecas/buen-bokado/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000202313_l2_rec_turismo/es_202313/202313-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000202313_l2_rec_turismo/es_202313/data/202313_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000202313_l2_rec_turismo/r01Index/0000202313_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000202313_l2_rec_turismo/opendata/0000202313_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="17">
+        <Nombre>Conservas Zallo, S.A.</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Bermeo</Localidad>
+        <Telefono>946 186 318</Telefono>
+        <Direccion>Polígono Industrial Landabaso, s/n</Direccion>
+        <Marcas>Costa Vasca</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Buenaspracticas>1</Buenaspracticas>
+        <WEB>http://www.zallo.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>48370</PostalCode>
+        <TipodeCompra>Euskal Baserri</TipodeCompra>
+        <CoordenadasGPS>43.421395,-2.736355</CoordenadasGPS>
+        <LATWGS84>43.421395</LATWGS84>
+        <LONWGS84>-2.736355</LONWGS84>
+        <Municipio>Bermeo</Municipio>
+        <Codigomunicipio>017</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/conserveras/conservas-zallo-sa/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063576_l2_rec_turismo/es_63576/63576-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063576_l2_rec_turismo/es_63576/data/63576_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063576_l2_rec_turismo/r01Index/0000063576_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063576_l2_rec_turismo/opendata/0000063576_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="18">
+        <Nombre>Chocolates de Mendaro-Saint Gerons</Nombre>
+        <Descripcion>Elaboración artesanal de chocolate desde 1850. Molino y el obrador original</Descripcion>
+        <Descripcion>Elaboración artesanal de chocolate desde 1850. Molino y el obrador original</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>943 755 115</Telefono>
+        <Direccion>Azpilgoeta, 35</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Buenaspracticas>1</Buenaspracticas>
+        <WEB>http://www.chocolatesdemendaro.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20850</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.253689,-2.388475</CoordenadasGPS>
+        <LATWGS84>43.253689</LATWGS84>
+        <LONWGS84>-2.388475</LONWGS84>
+        <Municipio>Mendaro</Municipio>
+        <Codigomunicipio>901</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/pastelerias-y-confiterias/chocolates-de-mendaro-saint-gerons/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063574_l2_rec_turismo/es_63574/63574-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063574_l2_rec_turismo/es_63574/data/63574_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063574_l2_rec_turismo/r01Index/0000063574_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063574_l2_rec_turismo/opendata/0000063574_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="19">
+        <Nombre>Elkano Txakolindegia</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Eitzaga | Diseminado</Localidad>
+        <Telefono>600 800 259</Telefono>
+        <Direccion>Elkano Etxea - Eitzaga auzoa</Direccion>
+        <Marcas>Costa Vasca</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Buenaspracticas>1</Buenaspracticas>
+        <WEB>http://www.txakolielkano.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20808</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.28922811149381,-2.190658816580253</CoordenadasGPS>
+        <LATWGS84>43.28922811149381</LATWGS84>
+        <LONWGS84>-2.190658816580253</LONWGS84>
+        <Municipio>Getaria</Municipio>
+        <Codigomunicipio>039</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/elkano-txakolindegia/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092302_l2_rec_turismo/es_92302/92302-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092302_l2_rec_turismo/es_92302/data/92302_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092302_l2_rec_turismo/r01Index/0000092302_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092302_l2_rec_turismo/opendata/0000092302_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="20">
+        <Nombre>Crosta</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Mimetiz</Localidad>
+        <Telefono>946 390 447</Telefono>
+        <Direccion>Barrio San Pantaleón, 2 - bajo</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>48860</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.21372586530103,-3.1330184772460825</CoordenadasGPS>
+        <LATWGS84>43.21372586530103</LATWGS84>
+        <LONWGS84>-3.1330184772460825</LONWGS84>
+        <Municipio>Zalla</Municipio>
+        <Codigomunicipio>096</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/crosta/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092182_l2_rec_turismo/es_92182/92182-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092182_l2_rec_turismo/es_92182/data/92182_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092182_l2_rec_turismo/r01Index/0000092182_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092182_l2_rec_turismo/opendata/0000092182_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="21">
+        <Nombre>Ezkur - Txerri</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Getaria</Localidad>
+        <Telefono>943 240 125</Telefono>
+        <Direccion>Eguzkitza, Meaga auzoa</Direccion>
+        <Marcas>Costa Vasca</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.ezkurtxerri.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20808</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.280314,-2.209715</CoordenadasGPS>
+        <LATWGS84>43.280314</LATWGS84>
+        <LONWGS84>-2.209715</LONWGS84>
+        <Municipio>Getaria</Municipio>
+        <Codigomunicipio>039</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/ezkur-txerri/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063466_l2_rec_turismo/es_63466/63466-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063466_l2_rec_turismo/es_63466/data/63466_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063466_l2_rec_turismo/r01Index/0000063466_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063466_l2_rec_turismo/opendata/0000063466_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="22">
+        <Nombre>Etxeandia Garardauak</Nombre>
+        <Descripcion>Fábrica de cerveza artesanal que elabora cervezas especiales.</Descripcion>
+        <Descripcion>Fábrica de cerveza artesanal que elabora cervezas especiales.</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>605 707 985</Telefono>
+        <Direccion>Antsonekoa 2, Polígono Industrial Igeltzera (Nave 12)</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.etxeandia.biz</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <VisitaGuiada>1</VisitaGuiada>
+        <PostalCode>48610</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.382334,-2.964538</CoordenadasGPS>
+        <LATWGS84>43.382334</LATWGS84>
+        <LONWGS84>-2.964538</LONWGS84>
+        <Municipio>Urduliz</Municipio>
+        <Codigomunicipio>089</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/etxeandia-garardauak/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063596_l2_rec_turismo/es_63596/63596-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063596_l2_rec_turismo/es_63596/data/63596_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063596_l2_rec_turismo/r01Index/0000063596_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063596_l2_rec_turismo/opendata/0000063596_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="23">
+        <Nombre>Garoa</Nombre>
+        <Descripcion>Queseria tradicional elaboradora de queso Idiazabal</Descripcion>
+        <Descripcion>Queseria tradicional elaboradora de queso Idiazabal</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Zerain</Localidad>
+        <Telefono>943 801 505</Telefono>
+        <Direccion>Garoa Baserria</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20214</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>43.010814,-2.270865</CoordenadasGPS>
+        <LATWGS84>43.010814</LATWGS84>
+        <LONWGS84>-2.270865</LONWGS84>
+        <Municipio>Zerain</Municipio>
+        <Codigomunicipio>026</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/garoa/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063470_l2_rec_turismo/es_63470/63470-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063470_l2_rec_turismo/es_63470/data/63470_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063470_l2_rec_turismo/r01Index/0000063470_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063470_l2_rec_turismo/opendata/0000063470_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="24">
+        <Nombre>Gaintza Txakolindegia</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>San Prudentzio | Diseminado</Localidad>
+        <Telefono>943 140 032</Telefono>
+        <Direccion>Barrio San Prudencio 26, Carretera Meagas</Direccion>
+        <Marcas>Costa Vasca</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Buenaspracticas>1</Buenaspracticas>
+        <WEB>http://www.hotelgaintza.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20808</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.30291829196814,-2.210601530719032</CoordenadasGPS>
+        <LATWGS84>43.30291829196814</LATWGS84>
+        <LONWGS84>-2.210601530719032</LONWGS84>
+        <Municipio>Getaria</Municipio>
+        <Codigomunicipio>039</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/gaintza-txakolindegia/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092303_l2_rec_turismo/es_92303/92303-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092303_l2_rec_turismo/es_92303/data/92303_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092303_l2_rec_turismo/r01Index/0000092303_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092303_l2_rec_turismo/opendata/0000092303_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="25">
+        <Nombre>Gaztiñatxulo</Nombre>
+        <Descripcion>Queseria tradicional elaboradora de queso Idiazabal</Descripcion>
+        <Descripcion>Queseria tradicional elaboradora de queso Idiazabal</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Idiazabal</Localidad>
+        <Telefono>618 721 473</Telefono>
+        <Direccion>Gaztiñatxulo Baserria</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <VisitaGuiada>1</VisitaGuiada>
+        <PostalCode>20213</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>42.996416,-2.233196</CoordenadasGPS>
+        <LATWGS84>42.996416</LATWGS84>
+        <LONWGS84>-2.233196</LONWGS84>
+        <Municipio>Idiazabal</Municipio>
+        <Codigomunicipio>043</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/gaztinatxulo/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063487_l2_rec_turismo/es_63487/63487-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063487_l2_rec_turismo/es_63487/data/63487_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063487_l2_rec_turismo/r01Index/0000063487_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063487_l2_rec_turismo/opendata/0000063487_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="26">
+        <Nombre>Gaztaindizar</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Zarautz</Localidad>
+        <Telefono>696 395 882</Telefono>
+        <Direccion>Asti, Barrio Aitze s/n</Direccion>
+        <Marcas>Costa Vasca</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20800</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.26905,-2.157662</CoordenadasGPS>
+        <LATWGS84>43.26905</LATWGS84>
+        <LONWGS84>-2.157662</LONWGS84>
+        <Municipio>Zarautz</Municipio>
+        <Codigomunicipio>079</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/gaztaindizar/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063473_l2_rec_turismo/es_63473/63473-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063473_l2_rec_turismo/es_63473/data/63473_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063473_l2_rec_turismo/r01Index/0000063473_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063473_l2_rec_turismo/opendata/0000063473_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="27">
+        <Nombre>Gomiztegi Baserria</Nombre>
+        <Descripcion>Caserío que elabora queso de Denominación de Origen Idiazabal. Se realizan visitas guiadas</Descripcion>
+        <Descripcion>Caserío que elabora queso de Denominación de Origen Idiazabal. Se realizan visitas guiadas</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Oñati</Localidad>
+        <Telefono>943 251 008</Telefono>
+        <Direccion>Arantzazu auzoa</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.gomiztegi.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20560</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>42.990833,-2.412187</CoordenadasGPS>
+        <LATWGS84>42.990833</LATWGS84>
+        <LONWGS84>-2.412187</LONWGS84>
+        <Municipio>Oñati</Municipio>
+        <Codigomunicipio>059</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/gomiztegi-baserria/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063495_l2_rec_turismo/es_63495/63495-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063495_l2_rec_turismo/es_63495/data/63495_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063495_l2_rec_turismo/r01Index/0000063495_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063495_l2_rec_turismo/opendata/0000063495_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="28">
+        <Nombre>Germinados Kimuak</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>946 741 913</Telefono>
+        <Direccion>Elortegi, 8</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.kimuak.es</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>48112</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.38517,-2.860072</CoordenadasGPS>
+        <LATWGS84>43.38517</LATWGS84>
+        <LONWGS84>-2.860072</LONWGS84>
+        <Municipio>Maruri-Jatabe</Municipio>
+        <Codigomunicipio>061</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/germinados-kimuak/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063488_l2_rec_turismo/es_63488/63488-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063488_l2_rec_turismo/es_63488/data/63488_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063488_l2_rec_turismo/r01Index/0000063488_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063488_l2_rec_turismo/opendata/0000063488_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="29">
+        <Nombre>Hermanos Fernández Terreros - C.B. La Sequilla</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>946 706 227</Telefono>
+        <Direccion>La Campa, 6</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>48550</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.3215522,-3.132412199999976</CoordenadasGPS>
+        <LATWGS84>43.3215522</LATWGS84>
+        <LONWGS84>-3.132412199999976</LONWGS84>
+        <Municipio>Muskiz</Municipio>
+        <Codigomunicipio>071</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/fernandez-terreros-la-sequilla/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092183_l2_rec_turismo/es_92183/92183-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092183_l2_rec_turismo/es_92183/data/92183_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092183_l2_rec_turismo/r01Index/0000092183_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092183_l2_rec_turismo/opendata/0000092183_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="30">
+        <Nombre>Helados Italianos Gelati</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>622 128 677</Telefono>
+        <Direccion>Barrio Goieta, 42 - bajo</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.gelatigelati.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>48112</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.41107,-2.8678600000000642</CoordenadasGPS>
+        <LATWGS84>43.41107</LATWGS84>
+        <LONWGS84>-2.8678600000000642</LONWGS84>
+        <Municipio>Maruri-Jatabe</Municipio>
+        <Codigomunicipio>061</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/helados-italianos-gelati/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092241_l2_rec_turismo/es_92241/92241-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092241_l2_rec_turismo/es_92241/data/92241_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092241_l2_rec_turismo/r01Index/0000092241_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092241_l2_rec_turismo/opendata/0000092241_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="31">
+        <Nombre>Jakion</Nombre>
+        <Descripcion>Empresa creada con la intención de recuperar, potenciar y fortalecer la actividad agraria de los ...</Descripcion>
+        <Descripcion>Empresa creada con la intención de recuperar, potenciar y fortalecer la actividad agraria de los caseríos en la comarca de Debagoiena. Elaboración de conservas naturales de alta calidad transformando las frutas y las verduras de forma artesana</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Leintz-Gatzaga</Localidad>
+        <Telefono>943 714 686</Telefono>
+        <Direccion>San Migel plaza, 4</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.jakion.es</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20530</PostalCode>
+        <TipodeCompra>Euskal Baserri</TipodeCompra>
+        <CoordenadasGPS>42.98652,-2.567927</CoordenadasGPS>
+        <LATWGS84>42.98652</LATWGS84>
+        <LONWGS84>-2.567927</LONWGS84>
+        <Municipio>Leintz Gatzaga</Municipio>
+        <Codigomunicipio>068</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/conserveras/jakion/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063528_l2_rec_turismo/es_63528/63528-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063528_l2_rec_turismo/es_63528/data/63528_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063528_l2_rec_turismo/r01Index/0000063528_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063528_l2_rec_turismo/opendata/0000063528_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="32">
+        <Nombre>Inazio Urruzola Txakolina</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>658 734 471</Telefono>
+        <Direccion>Arana Bailara 18</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.inaziourruzola.eus</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20494</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.16906195010297,-2.10110251349181</CoordenadasGPS>
+        <LATWGS84>43.16906195010297</LATWGS84>
+        <LONWGS84>-2.10110251349181</LONWGS84>
+        <Municipio>Alkiza</Municipio>
+        <Codigomunicipio>006</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/inazio-urruzola-txakolina/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092223_l2_rec_turismo/es_92223/92223-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092223_l2_rec_turismo/es_92223/data/92223_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092223_l2_rec_turismo/r01Index/0000092223_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092223_l2_rec_turismo/opendata/0000092223_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="33">
+        <Nombre>Laugar Brewery</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>628 069 653</Telefono>
+        <Direccion>Polígono Industrial Isasi, nave 9</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.laugarbrewery.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>48192</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.18381960352104,-3.0615745079345515</CoordenadasGPS>
+        <LATWGS84>43.18381960352104</LATWGS84>
+        <LONWGS84>-3.0615745079345515</LONWGS84>
+        <Municipio>Gordexola</Municipio>
+        <Codigomunicipio>042</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/laugar-brewery/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092201_l2_rec_turismo/es_92201/92201-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092201_l2_rec_turismo/es_92201/data/92201_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092201_l2_rec_turismo/r01Index/0000092201_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092201_l2_rec_turismo/opendata/0000092201_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="34">
+        <Nombre>MAISOR</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Getaria</Localidad>
+        <Telefono>943 140 993</Telefono>
+        <Direccion>Puerto 3, Edificio Astillero</Direccion>
+        <Marcas>Costa Vasca</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Buenaspracticas>1</Buenaspracticas>
+        <WEB>http://www.maisor.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <VisitaGuiada>1</VisitaGuiada>
+        <PostalCode>20808</PostalCode>
+        <TipodeCompra>Euskal Baserri</TipodeCompra>
+        <CoordenadasGPS>43.306341,-2.201901</CoordenadasGPS>
+        <LATWGS84>43.306341</LATWGS84>
+        <LONWGS84>-2.201901</LONWGS84>
+        <Municipio>Getaria</Municipio>
+        <Codigomunicipio>039</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/conserveras/maisor/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063516_l2_rec_turismo/es_63516/63516-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063516_l2_rec_turismo/es_63516/data/63516_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063516_l2_rec_turismo/r01Index/0000063516_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063516_l2_rec_turismo/opendata/0000063516_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="35">
+        <Nombre>La Leze</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Ilarduia</Localidad>
+        <Telefono>945 304 158</Telefono>
+        <Direccion>Caserío La Leze</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.quesoslaleze.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>01260</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>42.87919112317122,-2.2783141473632895</CoordenadasGPS>
+        <LATWGS84>42.87919112317122</LATWGS84>
+        <LONWGS84>-2.2783141473632895</LONWGS84>
+        <Municipio>Asparrena</Municipio>
+        <Codigomunicipio>009</Codigomunicipio>
+        <Provincia>Araba/Álava</Provincia>
+        <Codigoprovincia>01</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/la-leze/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000082501_l2_rec_turismo/es_82501/82501-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000082501_l2_rec_turismo/es_82501/data/82501_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000082501_l2_rec_turismo/r01Index/0000082501_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000082501_l2_rec_turismo/opendata/0000082501_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="36">
+        <Nombre>Lactea De Balmaseda, S.L.</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Balmaseda</Localidad>
+        <Telefono>946 802 864</Telefono>
+        <Direccion>Parque Industrial El Páramo</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>48800</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>43.207178,-3.206635</CoordenadasGPS>
+        <LATWGS84>43.207178</LATWGS84>
+        <LONWGS84>-3.206635</LONWGS84>
+        <Municipio>Balmaseda</Municipio>
+        <Codigomunicipio>090</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/lactea-de-balmaseda-sl/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063546_l2_rec_turismo/es_63546/63546-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063546_l2_rec_turismo/es_63546/data/63546_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063546_l2_rec_turismo/r01Index/0000063546_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063546_l2_rec_turismo/opendata/0000063546_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="37">
+        <Nombre>Olano</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Egino</Localidad>
+        <Telefono>945 304 244</Telefono>
+        <Direccion>San Esteban, 6</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Buenaspracticas>1</Buenaspracticas>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>01260</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>42.87040767862672,-2.264889267736862</CoordenadasGPS>
+        <LATWGS84>42.87040767862672</LATWGS84>
+        <LONWGS84>-2.264889267736862</LONWGS84>
+        <Municipio>Asparrena</Municipio>
+        <Codigomunicipio>009</Codigomunicipio>
+        <Provincia>Araba/Álava</Provincia>
+        <Codigoprovincia>01</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/olano/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000082521_l2_rec_turismo/es_82521/82521-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000082521_l2_rec_turismo/es_82521/data/82521_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000082521_l2_rec_turismo/r01Index/0000082521_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000082521_l2_rec_turismo/opendata/0000082521_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="38">
+        <Nombre>Olano</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>943 880 778</Telefono>
+        <Direccion>Andre Mari, 3</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20200</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.04728928106629,-2.196494847850431</CoordenadasGPS>
+        <LATWGS84>43.04728928106629</LATWGS84>
+        <LONWGS84>-2.196494847850431</LONWGS84>
+        <Municipio>Beasain</Municipio>
+        <Codigomunicipio>019</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/olano/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092203_l2_rec_turismo/es_92203/92203-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092203_l2_rec_turismo/es_92203/data/92203_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092203_l2_rec_turismo/r01Index/0000092203_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092203_l2_rec_turismo/opendata/0000092203_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="39">
+        <Nombre>Mahala Naturala</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Leaburu</Localidad>
+        <Telefono>943 670 724</Telefono>
+        <Direccion>Mahala Baserria</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.mahalanaturala.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20491</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.122757,-2.047884</CoordenadasGPS>
+        <LATWGS84>43.122757</LATWGS84>
+        <LONWGS84>-2.047884</LONWGS84>
+        <Municipio>Leaburu</Municipio>
+        <Codigomunicipio>050</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/mahala-naturala/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063484_l2_rec_turismo/es_63484/63484-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063484_l2_rec_turismo/es_63484/data/63484_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063484_l2_rec_turismo/r01Index/0000063484_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063484_l2_rec_turismo/opendata/0000063484_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="40">
+        <Nombre>Momotegi</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>943 493 191</Telefono>
+        <Direccion>Pikogarate bidea, 20</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.momotegi.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20180</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.28898257568333,-1.8025943404754798</CoordenadasGPS>
+        <LATWGS84>43.28898257568333</LATWGS84>
+        <LONWGS84>-1.8025943404754798</LONWGS84>
+        <Municipio>Oiartzun</Municipio>
+        <Codigomunicipio>063</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/momotegi/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092205_l2_rec_turismo/es_92205/92205-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092205_l2_rec_turismo/es_92205/data/92205_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092205_l2_rec_turismo/r01Index/0000092205_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092205_l2_rec_turismo/opendata/0000092205_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="41">
+        <Nombre>Otatza</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Zaldibia</Localidad>
+        <Telefono>943 887 077</Telefono>
+        <Direccion>Caserío Otatza</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20247</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>43.040054,-2.131047</CoordenadasGPS>
+        <LATWGS84>43.040054</LATWGS84>
+        <LONWGS84>-2.131047</LONWGS84>
+        <Municipio>Zaldibia</Municipio>
+        <Codigomunicipio>078</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/otatza/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063691_l2_rec_turismo/es_63691/63691-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063691_l2_rec_turismo/es_63691/data/63691_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063691_l2_rec_turismo/r01Index/0000063691_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063691_l2_rec_turismo/opendata/0000063691_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="42">
+        <Nombre>Panadería Echebarria</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Murgia</Localidad>
+        <Telefono>945 430 034</Telefono>
+        <Direccion>Domingo de Sautu, 32</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>01130</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>42.95635685018162,-2.8209268220900867</CoordenadasGPS>
+        <LATWGS84>42.95635685018162</LATWGS84>
+        <LONWGS84>-2.8209268220900867</LONWGS84>
+        <Municipio>Zuia</Municipio>
+        <Codigomunicipio>063</Codigomunicipio>
+        <Provincia>Araba/Álava</Provincia>
+        <Codigoprovincia>01</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/pastelerias-y-confiterias/panaderia-echebarria/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092701_l2_rec_turismo/es_92701/92701-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092701_l2_rec_turismo/es_92701/data/92701_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092701_l2_rec_turismo/r01Index/0000092701_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092701_l2_rec_turismo/opendata/0000092701_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="43">
+        <Nombre>Omago Helados</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Gernika-Lumo</Localidad>
+        <Telefono>606 074 224</Telefono>
+        <Direccion>Goikoibarra, 20</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Email>f.omago@gmail.com</Email>
+        <WEB>http://www.heladosomagotxiki.es</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>48300</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.30775031957828,-2.678808668261695</CoordenadasGPS>
+        <LATWGS84>43.30775031957828</LATWGS84>
+        <LONWGS84>-2.678808668261695</LONWGS84>
+        <Municipio>Gernika-Lumo</Municipio>
+        <Codigomunicipio>046</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/bares-de-pintxos/omago-kafetegia/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092645_l2_rec_turismo/es_92645/92645-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092645_l2_rec_turismo/es_92645/data/92645_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092645_l2_rec_turismo/r01Index/0000092645_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092645_l2_rec_turismo/opendata/0000092645_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="44">
+        <Nombre>Ondarre</Nombre>
+        <Descripcion>Queseria tradicional y museo en la que se puede ver también las ovejas</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Segura</Localidad>
+        <Telefono>943 801 664</Telefono>
+        <Direccion>Beheko Arrabal, s/n</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.nekatur.net/ondarre</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20214</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>43.012728,-2.253013</CoordenadasGPS>
+        <LATWGS84>43.012728</LATWGS84>
+        <LONWGS84>-2.253013</LONWGS84>
+        <Municipio>Segura</Municipio>
+        <Codigomunicipio>070</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/ondarre/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063686_l2_rec_turismo/es_63686/63686-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063686_l2_rec_turismo/es_63686/data/63686_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063686_l2_rec_turismo/r01Index/0000063686_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063686_l2_rec_turismo/opendata/0000063686_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="45">
+        <Nombre>Quesería Basterra</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Goiuri-Ondona</Localidad>
+        <Telefono>945 43 72 79</Telefono>
+        <Direccion>Goiuri, 13&amp;lt;br/&amp;gt;</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Email>urjauzikogazta@gmail.com</Email>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>01449</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>42.976645,-2.917907600000035</CoordenadasGPS>
+        <LATWGS84>42.976645</LATWGS84>
+        <LONWGS84>-2.917907600000035</LONWGS84>
+        <Municipio>Urkabustaiz</Municipio>
+        <Codigomunicipio>054</Codigomunicipio>
+        <Provincia>Araba/Álava</Provincia>
+        <Codigoprovincia>01</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/tiendas-gourmet-enotecas/queseria-basterra/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000202213_l2_rec_turismo/es_202213/202213-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000202213_l2_rec_turismo/es_202213/data/202213_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000202213_l2_rec_turismo/r01Index/0000202213_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000202213_l2_rec_turismo/opendata/0000202213_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="46">
+        <Nombre>Quesería Isusi Anaiak</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Sodupe</Localidad>
+        <Telefono>626 351 164</Telefono>
+        <Direccion>Caserio Buniete, 1</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>48840</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>43.203049,-3.045788</CoordenadasGPS>
+        <LATWGS84>43.203049</LATWGS84>
+        <LONWGS84>-3.045788</LONWGS84>
+        <Municipio>Güeñes</Municipio>
+        <Codigomunicipio>045</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/queseria-isusi-anaiak/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063621_l2_rec_turismo/es_63621/63621-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063621_l2_rec_turismo/es_63621/data/63621_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063621_l2_rec_turismo/r01Index/0000063621_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063621_l2_rec_turismo/opendata/0000063621_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="47">
+        <Nombre>Petritegi Sagardotegia</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Astigarraga</Localidad>
+        <Telefono>943 457 188</Telefono>
+        <Direccion>Petritegi bidea 8</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Buenaspracticas>1</Buenaspracticas>
+        <WEB>http://www.petritegi.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20115</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.290468075060936,-1.9409502502624036</CoordenadasGPS>
+        <LATWGS84>43.290468075060936</LATWGS84>
+        <LONWGS84>-1.9409502502624036</LONWGS84>
+        <Municipio>Astigarraga</Municipio>
+        <Codigomunicipio>903</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/petritegi-sagardotegia/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092181_l2_rec_turismo/es_92181/92181-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092181_l2_rec_turismo/es_92181/data/92181_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092181_l2_rec_turismo/r01Index/0000092181_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092181_l2_rec_turismo/opendata/0000092181_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="48">
+        <Nombre>Quesería Atxeta</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Oleta</Localidad>
+        <Telefono>615 742 783</Telefono>
+        <Direccion>Olaeta 42 - Atxeta Baserria</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Buenaspracticas>1</Buenaspracticas>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>01165</PostalCode>
+        <TipodeCompra>Eusko Label</TipodeCompra>
+        <CoordenadasGPS>43.046507,-2.631869</CoordenadasGPS>
+        <LATWGS84>43.046507</LATWGS84>
+        <LONWGS84>-2.631869</LONWGS84>
+        <Municipio>Aramaio</Municipio>
+        <Codigomunicipio>003</Codigomunicipio>
+        <Provincia>Araba/Álava</Provincia>
+        <Codigoprovincia>01</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/queserias/queseria-atxeta/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063618_l2_rec_turismo/es_63618/63618-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063618_l2_rec_turismo/es_63618/data/63618_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063618_l2_rec_turismo/r01Index/0000063618_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063618_l2_rec_turismo/opendata/0000063618_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="49">
+        <Nombre>Txumitxa Ibarrako Piparrak</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>943 671 158</Telefono>
+        <Direccion>Euskal Herria kalea, 30</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.txumitxa.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20400</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.13217004065376,-2.06641903558193</CoordenadasGPS>
+        <LATWGS84>43.13217004065376</LATWGS84>
+        <LONWGS84>-2.06641903558193</LONWGS84>
+        <Municipio>Ibarra</Municipio>
+        <Codigomunicipio>042</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/txumitxa-ibarrako-piparrak/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092225_l2_rec_turismo/es_92225/92225-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092225_l2_rec_turismo/es_92225/data/92225_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092225_l2_rec_turismo/r01Index/0000092225_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092225_l2_rec_turismo/opendata/0000092225_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="50">
+        <Nombre>Tolosako Babarrun Elkartea</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Tolosa</Localidad>
+        <Telefono>943 650 253</Telefono>
+        <Direccion>Barrio San Esteban, 29</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.alubiasdetolosa.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20400</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.133336259202025,-2.0846303031798925</CoordenadasGPS>
+        <LATWGS84>43.133336259202025</LATWGS84>
+        <LONWGS84>-2.0846303031798925</LONWGS84>
+        <Municipio>Tolosa</Municipio>
+        <Codigomunicipio>071</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/tolosako-babarrun-elkartea/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063645_l2_rec_turismo/es_63645/63645-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063645_l2_rec_turismo/es_63645/data/63645_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063645_l2_rec_turismo/r01Index/0000063645_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063645_l2_rec_turismo/opendata/0000063645_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="51">
+        <Nombre>Quesería Vista Alegre</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Matienzo</Localidad>
+        <Telefono>654 145 154</Telefono>
+        <Direccion>Barrio Matienzo, 31</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.vistaalegrebaserria.com</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>48891</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.23942599227105,-3.386813386230415</CoordenadasGPS>
+        <LATWGS84>43.23942599227105</LATWGS84>
+        <LONWGS84>-3.386813386230415</LONWGS84>
+        <Municipio>Karrantza Harana/Valle de Carranza</Municipio>
+        <Codigomunicipio>022</Codigomunicipio>
+        <Provincia>Bizkaia</Provincia>
+        <Codigoprovincia>48</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/queseria-vista-alegre/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000092202_l2_rec_turismo/es_92202/92202-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092202_l2_rec_turismo/es_92202/data/92202_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000092202_l2_rec_turismo/r01Index/0000092202_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000092202_l2_rec_turismo/opendata/0000092202_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="52">
+        <Nombre>Quesería Larte</Nombre>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Telefono>943 69 74 13</Telefono>
+        <Direccion>Zubillaga auzoa, Aitzio artegia&amp;lt;br/&amp;gt;</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <Email>tour@tolosaldea.eus</Email>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20268</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.0562349,-2.087647299999958</CoordenadasGPS>
+        <LATWGS84>43.0562349</LATWGS84>
+        <LONWGS84>-2.087647299999958</LONWGS84>
+        <Municipio>Amezketa</Municipio>
+        <Codigomunicipio>008</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/tiendas-gourmet-enotecas/queseria-larte/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000202173_l2_rec_turismo/es_202173/202173-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000202173_l2_rec_turismo/es_202173/data/202173_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000202173_l2_rec_turismo/r01Index/0000202173_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000202173_l2_rec_turismo/opendata/0000202173_l2_rec_turismo.zip</Zip>
+    </row>
+    <row num="53">
+        <Nombre>Urdapilleta, Euskal Txerria</Nombre>
+        <Descripcion>Es una raza de cerdo autóctono: Euskal Txerria.</Descripcion>
+        <Descripcion>Es una raza de cerdo autóctono: Euskal Txerria.</Descripcion>
+        <TipodePlantilla>Tiendas</TipodePlantilla>
+        <Localidad>Bidania</Localidad>
+        <Telefono>943 681 006</Telefono>
+        <Direccion>Elola Azpikoa baserria</Direccion>
+        <Marcas>Montes y Valles vascos</Marcas>
+        <Diversidadfunctionalfisica>0</Diversidadfunctionalfisica>
+        <Diversidadfunctionalvisual>0</Diversidadfunctionalvisual>
+        <Diversidadfunctionalauditiva>0</Diversidadfunctionalauditiva>
+        <Diversidadfunctionalintelectual>0</Diversidadfunctionalintelectual>
+        <Diversidadfunctionalorganica>0</Diversidadfunctionalorganica>
+        <WEB>http://www.urdapilleta.eu</WEB>
+        <ClubdeProducto>1</ClubdeProducto>
+        <PostalCode>20496</PostalCode>
+        <TipodeCompra>Agricultura Ecológica</TipodeCompra>
+        <CoordenadasGPS>43.129256,-2.175254</CoordenadasGPS>
+        <LATWGS84>43.129256</LATWGS84>
+        <LONWGS84>-2.175254</LONWGS84>
+        <Municipio>Bidania-Goiatz</Municipio>
+        <Codigomunicipio>024</Codigomunicipio>
+        <Provincia>Gipuzkoa</Provincia>
+        <Codigoprovincia>20</Codigoprovincia>
+        <Pais>España</Pais>
+        <Codigopais>108</Codigopais>
+        <URLamigable>https://opendata.euskadi.eus/datos/-/es/productores-alimenticios-bebidas/urdapilleta-euskal-txerria/</URLamigable>
+        <URLfisica>https://opendata.euskadi.eus/datos/contenidos/l_compras/0000063663_l2_rec_turismo/es_63663/63663-ficha2.html</URLfisica>
+        <XMLdatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063663_l2_rec_turismo/es_63663/data/63663_openData.xml</XMLdatos>
+        <XMLmetadatos>https://opendata.euskadi.eus/contenidos/l_compras/0000063663_l2_rec_turismo/r01Index/0000063663_l2_rec_turismo-idxContent.xml</XMLmetadatos>
+        <Zip>https://opendata.euskadi.eus/contenidos/l_compras/0000063663_l2_rec_turismo/opendata/0000063663_l2_rec_turismo.zip</Zip>
+    </row>
+</rows>

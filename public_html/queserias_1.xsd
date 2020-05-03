@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<xs:schema version="1.0"
+           xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://www.juansito.com"
+           xmlns="https://www.juansito.com"
+           elementFormDefault="qualified">
+    
+    <xs:element name="rows">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element maxOccurs="unbounded" name="row">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Nombre" type="xs:string"/>
+                            <xs:element name="TipodePlantilla" type="xs:string"/>
+                            <xs:element name="Localidad" minOccurs="0" type="xs:string"/>
+                            <xs:element name="Telefono">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:string">
+                                        <xs:pattern value="([0-9]{3})[ ]([0-9]{3})[ ]([0-9]{3})"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element name="Direccion" type="xs:string"/>
+                        </xs:sequence>
+                        <xs:attribute name="num" type="xs:integer"/>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>
